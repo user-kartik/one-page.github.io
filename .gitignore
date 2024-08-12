@@ -1,0 +1,26 @@
+# Node modules directory
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# npm package lock file
+package-lock.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Optional: Ignore test coverage reports
+coverage/
