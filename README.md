@@ -27,7 +27,7 @@ The backend is built with Node.js, Express, and MySQL. It provides API endpoints
    ```plaintext
    DB_HOST=localhost
    DB_USER=root
-   DB_PASSWORD=123456789
+   DB_PASSWORD=yourpassword
    DB_NAME=react_website
    ```
 
